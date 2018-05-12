@@ -1,0 +1,34 @@
+_repo: M-moires-de-Joseph-Fouch--Duc-d-Otrante-Ministre-de-la-Police-G-n-raleTome-I_18942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fouché, Joseph, duc d'Otrante
+    alias: Fouche, Joseph, duc d'Otrante
+    birthdate: 1759
+    deathdate: 1820
+    gutenberg_agent_id: '8355'
+    url: http://www.gutenberg.org/2009/agents/8355
+    wikipedia: http://fr.wikipedia.org/wiki/Joseph_Fouch%C3%A9
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18942'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Bonaparte family'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+- !lcsh 'Fouché, Joseph, duc d''Otrante, 1759-1820'
+title: 'Mémoires de Joseph Fouché, Duc d''Otrante, Ministre de la Police Générale
+
+  Tome I'
+url: http://www.gutenberg.org/ebooks/18942
