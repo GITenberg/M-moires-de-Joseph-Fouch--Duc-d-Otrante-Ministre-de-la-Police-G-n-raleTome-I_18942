@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8355
     wikipedia: http://fr.wikipedia.org/wiki/Joseph_Fouch%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18942#M-moires-de-Joseph-Fouch--Duc-d-Otrante-Ministre-de-la-Police-G-n-raleTome-I
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-07-30'
 gutenberg_type: Text
